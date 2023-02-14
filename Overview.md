@@ -1,4 +1,5 @@
 The Detailed Conceptual Model (DCM) is a series of documents showing entities, their relationships and relevant attributes of both for each model diagram. The entities and relationships are built on the High-Level Conceptual Model (H-LCM: ‘Data Architecture Requirements Appendix A.doc’), with inputs from:
+
 1.1	EMu
 This existing CMS solution at The Museum. We have taken a full data dictionary of the database and combined this with field usage statistics, to update the model and provide mappings from EMu to this DCLM. This helps us ensure we have full coverage of the existing CMS’s data requirements. The EMu data dictionary it split into modules, and this model will show which modules and field apply to which entities and attributes. The RECODE EMu DataDictionary Mappings list is the reference, showing the detailed mappings from EMu to the data model.
 1.2	Functional Requirements
