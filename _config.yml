@@ -3,7 +3,7 @@ logo: "/assets/img/Recode Logo.png"
 description: The Detailed Conceptual Model is a series of documents showing entities, their relationships and relevant attributes of both for each model diagram.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minmal
+theme: jekyll-theme-minimal
 author: Ben Collier
 navbar-links:
   About Recode: "To promote management of and engagement with natural sciences collections and data, through the development of a scalable, sustainable, and futureproof solution, which will transform natural sciences collections management and underpin research that will enable people and the planet to thrive"
