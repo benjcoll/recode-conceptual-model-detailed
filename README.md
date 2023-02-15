@@ -11,3 +11,4 @@ These sources have led to:
 Additions and changes to the entities and relationships from the H-LCM, as the requirements are more complex 
 The additions of attributes and attribute groups to the entities and relationships 
 The aim is to give readers a full representation of The Museum’s interpretation of its collection data model, showing how it links to the relevant concepts from a variety of sources. This should give suppliers enough information to assess how the Museum’s data model could be implemented in their proposed solution and be the starting point for detailed discussions in the latter stages of the procurement process. 
+[Docs] ("/assets/Data Model PoC for web publishing v0.01.htm")
