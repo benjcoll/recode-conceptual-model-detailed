@@ -5,3 +5,8 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 author: Ben Collier
+navbar-links:
+  About Recode: "I am the Senior Data Architect on the Recode Programme at NHM London"
+  Resources:
+    - RECODE on OSF : "https://osf.io/968y7/"
+    - NHM : "https://www.nhm.ac.uk/"
