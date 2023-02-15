@@ -15,3 +15,5 @@ The aim is to give readers a full representation of The Museum’s interpretatio
 [a relative link] (/assets/Data Model PoC for web publishing v0.01.htm)
 
 [a relative link] (/assets/readme.md)
+
+[a relative link](readme.md)
