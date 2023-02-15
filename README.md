@@ -14,4 +14,3 @@ The aim is to give readers a full representation of The Museum’s interpretatio
 
 [Full Detailed Conceptual Model](/assets/docs/DataModelv0.03.htm)
 
-[Old Full Detailed Conceptual Model](/assets/docs/DataModelv0.02.htm)
